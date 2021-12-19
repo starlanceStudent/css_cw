@@ -1,0 +1,20 @@
+body {
+	background: grey;
+}
+
+h2 {
+	text-align: center;
+	color: green;
+	font-size: 100px;
+	background: yellow;
+}
+
+span{
+	font-size: 100px;
+}
+
+.yellow_letter {color: yellow;}
+.red_letter {color: red;}
+.black_letter {color: black;}
+.white_letter {color: #607d8bde}
+.purple_letter {color: purple;}
